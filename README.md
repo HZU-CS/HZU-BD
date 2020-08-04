@@ -36,7 +36,7 @@
 ### 推荐方向（软硬件结合+人工智能大数据）
 
 - 生物领域
-  - 结合企业，元心科技，利于就业，方便简单
+  - 结合企业，元心科技，利于就业（18级同学），方便简单
 - 物联网IOT
 
 ## 培训学习路线
@@ -67,18 +67,21 @@
   - [Web开发工程师](https://www.bilibili.com/video/BV1MJ411u7kW)
   - *[高级Web开发工程师](https://www.bilibili.com/video/BV1T7411W7cR)
 - 框架
-  - Angular
+  - *Angular
 
 ### Web后端
 
 - Java
   - [翁恺Java](https://www.bilibili.com/video/BV1DJ411B7cG)
+  - [Java完整入门教程](https://www.bilibili.com/video/av76246921)
 - Spring Boot
 
 ### 人工智能大数据
 
 - Python
   - 群内资源
+  - [微软官方 Python 入门教程](https://www.bilibili.com/video/BV1nE41127zQ)
+  - [python教程](https://www.bilibili.com/video/BV14J411U7hj)
 - OpenCV
   - [我](https://www.bilibili.com/video/BV1uK411H7gr)
 - *NLP
