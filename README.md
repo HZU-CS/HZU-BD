@@ -9,7 +9,7 @@
 
 ## 比赛
 
-### 比赛本身（珠江天使杯+“互联网+”）
+### 比赛本身（珠江天使杯、“互联网+”）
 
 - 获奖
 - 套路
@@ -46,6 +46,7 @@
 - 团队合作必备
   - [廖雪峰Git教程](https://www.liaoxuefeng.com/wiki/896043488029600)
   - [Git最新教程通俗易懂](https://www.bilibili.com/video/BV1FE411P7B3)
+  - GitKraken等GUI程序协助
 
 ### 嵌入式方向
 
@@ -89,16 +90,22 @@
 
 ## 进度跟进
 
+### 敏捷开发
+
+- 学习/迭代周期1~2周左右为宜
+
 ### Github或者Gitee仓库
 
 ### 其他项目管理软件
+
+- [项目管理软件哪个好？](https://www.zhihu.com/question/21518108)
 
 ## 练习提高代码水平
 
 ### 刷题
 
 - LeetCode
-
+- [算法小抄](https://github.com/labuladong/fucking-algorithm)
 - [算法导论](https://www.bilibili.com/video/BV1Kx411f7bL)
 - [CS61B](https://www.bilibili.com/video/BV1qt411W7dh)
 
