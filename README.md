@@ -3,9 +3,7 @@
 
 [我](https://lkljty.gitee.io/)
 
-[培训视频讲解地址]()
-
-
+[培训视频讲解地址](https://www.bilibili.com/video/BV1Np4y1q7MB/)
 
 比赛相关文档资料在QQ群文件中，QQ群号为1134264908。
 
