@@ -51,6 +51,7 @@
 ### 嵌入式方向
 
 - 软件硬件结合（暂时缺少设备，可以先学习Linux）
+  - [翁恺嵌入式](https://www.bilibili.com/video/BV1Wx411R7tM)
   - C语言编程
     - [CS50](https://www.bilibili.com/video/BV1HJ411q7bm)
     - [翁恺C语言](https://www.bilibili.com/video/BV1Bx411u7qY)
@@ -64,7 +65,7 @@
 ### Web前端
 
 - HTML、CSS、JavaScript
-  - [CS50](https://www.bilibili.com/video/BV1Rb411378V?p=15)
+  - [基础Web前端教程](https://www.bilibili.com/video/BV17b41137yx)
   - [Web开发工程师](https://www.bilibili.com/video/BV1MJ411u7kW)
   - *[高级Web开发工程师](https://www.bilibili.com/video/BV1T7411W7cR)
 - 框架
@@ -73,7 +74,7 @@
 ### Web后端
 
 - Java
-  - [翁恺Java](https://www.bilibili.com/video/BV1DJ411B7cG)
+  - [翁恺Java](https://www.bilibili.com/video/BV1PV411Z7Mj)
   - [Java完整入门教程](https://www.bilibili.com/video/av76246921)
 - Spring Boot
 
