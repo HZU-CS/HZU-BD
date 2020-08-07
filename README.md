@@ -119,3 +119,21 @@
 ## 示例流程思维导图
 
 [思维导图](https://www.mindmaster.io/online/map.html?obj=gg115255921420402325811/Personal/2020-HZU-BD.emmx)
+
+## 自测
+
+### Web前端
+
+[Web开发工程师](https://www.bilibili.com/video/BV1MJ411u7kW)中的练习
+
+### 其他
+
+LeetCode
+
+codewar
+
+课堂作业
+
+[Python Code Challenges](https://www.bilibili.com/video/BV19t4y1Q7w4/)
+
+[SQL Code Challenges](https://www.bilibili.com/video/BV1a54y1S7Ld)
