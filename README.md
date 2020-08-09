@@ -122,6 +122,8 @@
 
 ## 自测
 
+[Free Code Camp中文](https://fcc.asia/)
+
 ### Web前端
 
 [Web开发工程师](https://www.bilibili.com/video/BV1MJ411u7kW)中的练习
@@ -137,3 +139,4 @@ codewar
 [Python Code Challenges](https://www.bilibili.com/video/BV19t4y1Q7w4/)
 
 [SQL Code Challenges](https://www.bilibili.com/video/BV1a54y1S7Ld)
+
