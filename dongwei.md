@@ -39,13 +39,17 @@ https://angular.io/ ，前端开发框架，已经达到平台级别水平，用
 
 ### Ant Design
 
-https://ng.ant.design/docs/introduce/zh，与Google Material齐名，但更丰富的UI Component，最大化体现了中国改良性创新的能力
+https://ng.ant.design/docs/introduce/zh ，与Google Material齐名，但更丰富的UI Component，最大化体现了中国改良性创新的能力
 
 ### MySql 5.7
 
 普及度高，暂时用它吧，性能方面完全满足目前应用规模的需要
 
-### 克服苦难
+### Linux + Git
+
+Linux基本命令和环境配置，注册gitee账号使用git
+
+### 克服困难
 
 1. English
 2. 自己解决问题的能力，工程师的素养
